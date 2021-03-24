@@ -1,0 +1,143 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Courier New', monospace;
+  margin: 2em;
+  background-color: #693c72;
+  color: white;
+}
+
+h1 {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+button {
+  padding: auto;
+  border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+#button1 img {
+  display: none;
+}
+
+#button1:active img{
+  display: block;
+  border-radius: 10px;
+  margin-left: -7px;
+  margin-top: -2px;
+  
+
+}
+
+#button2 img {
+  display: none;
+}
+
+#button2:active img{
+  display: block;
+  border-radius: 10px;
+  margin-left: -7px;
+  margin-top: -2px;
+}
+
+#button3 img {
+  display: none;
+}
+
+#button3:active img{
+  display: block;
+  border-radius: 10px;
+  margin-left: -7px;
+  margin-top: -2px;
+}
+
+#button4 img {
+  display: none;
+}
+
+#button4:active img{
+  display: block;
+  border-radius: 10px;
+  margin-left: -7px;
+  margin-top: -2px;
+}
+
+#button5 img {
+  display: none;
+}
+
+#button5:active img{
+  display: block;
+  border-radius: 10px;
+  margin-left: -7px;
+  margin-top: -2px;
+} 
+
+#button6 img {
+  display: none;
+}
+
+#button6:active img{
+  display: block;
+  border-radius: 10px;
+  margin-left: -7px;
+  margin-top: -2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: #c15050;
+}
+
+#button2 {
+  background: #d97642;
+}
+
+#button3 {
+  background: #d49d42;
+}
+
+#button4 {
+  background: #019875;
+}
+
+#button5 {
+  background: #4397d6;
+}
+
+#button6 {
+  background: #b043d6;
+}
+
+#button:active, #button1.lit {
+  background: white;
+}
+
+#button2:active, #button2.lit  {
+  background: white;
+}
+
+#button3:active, #button3.lit  {
+  background: white;
+}
+
+#button4:active, #button4.lit  {
+  background: white;
+}
+
+#button5:active, #button5.lit  {
+  background: white;
+}
+
+#button6:active, #button6.lit  {
+  background: white;
+}
