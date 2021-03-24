@@ -44,7 +44,8 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+ 
 To complete the required parts of this assignment, I didn't need any 
 outside resources. In order to randomize patterns I used [stack overflow](https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array).
 To get pictures for the buttons, I used [unsplash](https://unsplash.com/).
